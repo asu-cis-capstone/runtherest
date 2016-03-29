@@ -11,3 +11,7 @@ elevator pitch:
 measurement plan: 
    the time in minutes that it takes a user to accomplish a task. 
    the quality of feedback obtained from users
+
+
+[picture](IMG_1762.jpg)
+[picture](IMG_1763.jpg)
