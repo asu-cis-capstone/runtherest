@@ -13,5 +13,5 @@ measurement plan:
    the quality of feedback obtained from users
 
 
-[picture](IMG_1762.jpg)
-[picture](IMG_1763.jpg)
+![picture](IMG_1762.JPG)
+![picture](IMG_1763.JPG)
