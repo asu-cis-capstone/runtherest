@@ -1,4 +1,5 @@
 [![Stories in Ready](https://badge.waffle.io/asu-cis-capstone/runtherest.png?label=ready&title=Ready)](https://waffle.io/asu-cis-capstone/runtherest)
+[![Stories in Ready](https://badge.waffle.io/asu-cis-capstone/runtherest.png?label=ready&title=Ready)](https://waffle.io/asu-cis-capstone/runtherest)
 # RuntheRest
 
 #### Team members: 
