@@ -1,4 +1,5 @@
-# RuntheRest
+
+# RunTheRest ![picture](Logo.jpg) 
 
 [![Stories in Ready](https://badge.waffle.io/asu-cis-capstone/runtherest.png?label=ready&title=Ready)](https://waffle.io/asu-cis-capstone/runtherest)
 
@@ -13,7 +14,7 @@
 
 >We tend to blame the waiter and tip them a little less than usual. But let’s think thoroughly, it’s the whole restaurant system that should be taken into account. 
 
->So the project idea is to create a fully integrated restaurant POS system, we called it **Run the Rest**. 
+>So the project idea is to create a fully integrated restaurant POS system, we called it **Run The Rest**. 
 
 >This system fulfills all tasks from taking wait-lists, estimating wait time, organizing tables, taking and tracking order, communicating between the waiters and kitchen staffs, with advanced real-time reporting, and loyalty programs for regular customers.
 
