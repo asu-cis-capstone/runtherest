@@ -26,7 +26,15 @@
 
 ![picture](As Is - To Be.jpg)
 
-#### Customer Feedback:
+### Mockups screenshots
+![picture](App 1.jpg)
+![picture](App 2.JPG)
+![picture](App 3.JPG)
+![picture](App 4.JPG)
+![picture](App 5.JPG)
+![picture](App 6.JPG)
+
+### Customer Feedback:
 ![picture](1.JPG)
 ![picture](2.JPG)
 ![picture](3.JPG)
