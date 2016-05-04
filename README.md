@@ -25,7 +25,6 @@
 
 
 ![picture](As Is - To Be.jpg)
-![picture](IMG_1763.JPG)
 
 #### Customer Feedback:
 ![picture](1.JPG)
