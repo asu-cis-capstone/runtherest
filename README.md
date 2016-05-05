@@ -39,3 +39,6 @@
 ![picture](2.JPG)
 ![picture](3.JPG)
 ![picture](4.JPG)
+
+### Try it yourself!
+![picture](QRcode.JPG)
