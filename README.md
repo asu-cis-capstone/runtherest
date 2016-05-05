@@ -40,5 +40,7 @@
 ![picture](3.JPG)
 ![picture](4.JPG)
 
-### Try it yourself!
+### Try it yourself! And let us know what do you think!
 ![picture](QRcode.JPG)
+
+Click the link to our Survey feedback: https://www.surveymonkey.com/r/Y6C9GKV
